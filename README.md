@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @t19d
 - 👀 I’m interested in football (I really love it), videogames and series/movies.
 - 🌱 I’m currently learning Flutter, Ionic, Angular...
-- 📫 davidtojo99@
+- 📫 davidtojo99@gmail.com
