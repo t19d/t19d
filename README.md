@@ -1,6 +1,6 @@
 Hi 👋, I'm David
 # 💫 About Me:
-👀 I’m like football (I really love it), videogames and series/movies.
+👀 I like football (I really love it), videogames and series/movies.
 
 
 ## 🌐 Socials:
